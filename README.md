@@ -1,2 +1,1 @@
-# proyek-robotika
-proyek akhir robotik - social distancing hat
+# Social Distancing Hat with Arduino Nano
